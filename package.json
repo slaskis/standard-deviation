@@ -7,7 +7,7 @@
   "author": "Robert Sköld <robert@publicclass.se>",
   "license": "MIT",
   "dependencies": {
-    "component/variance": "*"
+    "variance-component": "*"
   },
   "devDependencies": {
     "expect.js": "~0.2.0",
