@@ -1,0 +1,22 @@
+{
+  "name": "standard-deviation",
+  "version": "1.0.0",
+  "keywords": ["array", "utility", "stats", "statistics"],
+  "description": "Array standard deviation utility",
+  "main": "index.js",
+  "author": "Robert Sköld <robert@publicclass.se>",
+  "license": "MIT",
+  "dependencies": {
+    "component/variance": "*"
+  },
+  "devDependencies": {
+    "expect.js": "~0.2.0",
+    "mocha": "~1.8.1"
+  },
+  "scripts": {
+    "test": "./node_modules/.bin/mocha test.js"
+  },
+  "engines": {
+    "node" : ">=0.9.4"
+  }
+}
